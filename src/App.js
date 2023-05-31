@@ -22,7 +22,7 @@ function App() {
           placeholder="Please provide a image"
           onChange={(e) => setImage(e.target.files[0])}
         />
-        <button type="submit">submit</button>
+        <button type="submit">SUBMIT</button>
       </form>
     </div>
   );
